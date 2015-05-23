@@ -1,6 +1,6 @@
 # python_igraph_numpy_c_ext
 
-#### This code is largely untested and I am sharing it for feedback purposes. It probably contains errors result in memory leaks and incorrect results. Use at your own risk!
+#### This code is largely untested and I am sharing it for feedback purposes. It probably contains errors that result in memory leaks and incorrect results. Use at your own risk!
 
 Rough but working C extension to Python that uses iGraph and Numpy libraries in both Python and C
 
