@@ -16,6 +16,7 @@ I would welcome feedback that improves code quality or implements better practic
 
 ##### How to use:
 Download the files to a directory. If iGraph headers are not in '/usr/local/include' edit below
+
 In terminal:
 
     % cd <install directory>
