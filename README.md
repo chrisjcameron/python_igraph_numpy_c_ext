@@ -4,6 +4,7 @@
 
 Rough but working C extension to Python that uses iGraph and Numpy libraries in both Python and C
 
+##### Requires a very recent install of python-igraph >= Version: 0.7.1.post4
 
 Code hows a way to use C-iGraph functions on a graph created in Python and 
 how to return computation results as both floats and numpy arrays. 
